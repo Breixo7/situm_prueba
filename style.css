@@ -1,0 +1,35 @@
+/* General */
+.noHMar{
+margin:0px !important;
+}
+
+.noHPad{
+    padding:0px !important;
+}
+
+.bg-black{
+    background-color: #3c3c3b;
+    color:white;
+}
+
+.bg-white{
+    background-color: white !important;
+    color: #3c3c3b !important;
+}
+
+.center{
+    margin:0;
+}
+
+.padH10{
+    padding-right:10% !important;
+    padding-left:10% !important;
+}
+
+.w80{
+    width:80% !important;
+}
+
+.actual-process{
+    display:hide;
+}
